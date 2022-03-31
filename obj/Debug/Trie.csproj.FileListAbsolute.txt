@@ -1,0 +1,15 @@
+D:\Users\Julio\Projets\Logiciels\C#\Trie\Trie\Trie\bin\Debug\Trie.exe.config
+D:\Users\Julio\Projets\Logiciels\C#\Trie\Trie\Trie\bin\Debug\Trie.exe
+D:\Users\Julio\Projets\Logiciels\C#\Trie\Trie\Trie\bin\Debug\Trie.pdb
+D:\Users\Julio\Projets\Logiciels\C#\Trie\Trie\Trie\obj\Debug\Trie.csprojAssemblyReference.cache
+D:\Users\Julio\Projets\Logiciels\C#\Trie\Trie\Trie\obj\Debug\Trie.Form1.resources
+D:\Users\Julio\Projets\Logiciels\C#\Trie\Trie\Trie\obj\Debug\Trie.Properties.Resources.resources
+D:\Users\Julio\Projets\Logiciels\C#\Trie\Trie\Trie\obj\Debug\Trie.Settings.resources
+D:\Users\Julio\Projets\Logiciels\C#\Trie\Trie\Trie\obj\Debug\Trie.csproj.GenerateResource.cache
+D:\Users\Julio\Projets\Logiciels\C#\Trie\Trie\Trie\obj\Debug\Trie.csproj.CoreCompileInputs.cache
+D:\Users\Julio\Projets\Logiciels\C#\Trie\Trie\Trie\obj\Debug\Trie.exe
+D:\Users\Julio\Projets\Logiciels\C#\Trie\Trie\Trie\obj\Debug\Trie.pdb
+D:\Users\Julio\Projets\Logiciels\C#\Trie\Trie\Trie\bin\Debug\Trie.exe.manifest
+D:\Users\Julio\Projets\Logiciels\C#\Trie\Trie\Trie\bin\Debug\Trie.application
+D:\Users\Julio\Projets\Logiciels\C#\Trie\Trie\Trie\obj\Debug\Trie.exe.manifest
+D:\Users\Julio\Projets\Logiciels\C#\Trie\Trie\Trie\obj\Debug\Trie.application
